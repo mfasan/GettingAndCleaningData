@@ -12,7 +12,7 @@ The following files in the given folder were mostly used to generate the tidy da
 * ./activity_labels.txt: Contains a definition of the activities labelled  1...6 in the y_test.txt and y_train.txt files.
 * ./features.txt: contains a list of the 561 variables, respectively.
 
-## File generated
+## Files generated
 Additional files created to complete this project include:
 * run_analysis.R: which contains the script for generating the tidy data
 * README.txt: this file, describing the project and files used.
